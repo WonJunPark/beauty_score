@@ -1,5 +1,6 @@
 # beauty_score
 BTS 외모 순위
+![result](result.png)
 
 # SCUT-FBP5500-Database-Release
 
