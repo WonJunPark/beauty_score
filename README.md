@@ -1,6 +1,8 @@
 # beauty_score
 BTS 외모 순위
 
+( 정국 - 뷔 - 진/RM - 제이홉 - 지민 - 슈가 )
+
 ![result](result.png)
 
 # SCUT-FBP5500-Database-Release
